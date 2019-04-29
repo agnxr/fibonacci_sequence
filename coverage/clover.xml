@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1556569065325" clover="3.2.0">
+  <project timestamp="1556569065325" name="All files">
+    <metrics statements="19" coveredstatements="19" conditionals="14" coveredconditionals="14" methods="1" coveredmethods="1" elements="34" coveredelements="34" complexity="0" loc="19" ncloc="19" packages="1" files="1" classes="1"/>
+    <file name="fib.js" path="C:\Users\harin\Desktop\fibonacci_sequence\js\fib.js">
+      <metrics statements="19" coveredstatements="19" conditionals="14" coveredconditionals="14" methods="1" coveredmethods="1"/>
+      <line num="8" count="10" type="cond" truecount="2" falsecount="0"/>
+      <line num="9" count="1" type="stmt"/>
+      <line num="12" count="9" type="cond" truecount="2" falsecount="0"/>
+      <line num="13" count="1" type="stmt"/>
+      <line num="17" count="8" type="cond" truecount="2" falsecount="0"/>
+      <line num="18" count="1" type="stmt"/>
+      <line num="22" count="7" type="cond" truecount="2" falsecount="0"/>
+      <line num="23" count="1" type="stmt"/>
+      <line num="27" count="6" type="cond" truecount="2" falsecount="0"/>
+      <line num="28" count="1" type="stmt"/>
+      <line num="33" count="5" type="cond" truecount="2" falsecount="0"/>
+      <line num="34" count="1" type="stmt"/>
+      <line num="37" count="4" type="cond" truecount="2" falsecount="0"/>
+      <line num="38" count="1" type="stmt"/>
+      <line num="42" count="3" type="stmt"/>
+      <line num="46" count="3" type="stmt"/>
+      <line num="48" count="30" type="stmt"/>
+      <line num="51" count="3" type="stmt"/>
+      <line num="54" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
